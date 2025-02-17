@@ -3,6 +3,8 @@ title: Moby Dick (of een walvis van een boek)
 date: 2025-02-16 21:50
 draft: false
 tags:
+  - zaadje
+  - boek
 ---
 ![[moby_dick_tail.webp]]
 Op het moment lees ik _Moby Dick_ van Herman Melville. Hij staat al een tijd op m’n lijstje. Het is een van die boeken met een reputatie - een van de grote Amerikaanse romans, misschien wel van de wereld. Het boek zou dik, moeilijk en zwaar zijn; een serieus boek waar je niet makkelijk doorheen komt.
