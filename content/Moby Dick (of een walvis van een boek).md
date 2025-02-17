@@ -7,7 +7,6 @@ tags:
   - boek
 ---
 ![[moby_dick_tail.webp]]
-
 Ik ben op het moment bezig met *Moby Dick* van Herman Melville. Hij staat al een tijd op m’n lijstje. Het is een van die boeken met een reputatie - een van de grote Amerikaanse romans, misschien wel van de wereld. Het boek zou dik, moeilijk en zwaar zijn; een serieus boek waar je niet makkelijk doorheen komt.
 
 Dik en moeilijk is het. Op mijn e-reader bijna 1200 pagina’s en het heeft tientallen hoofdstukken - hoewel die individueel niet erg lang zijn. Het taalgebruik is breedsprakig en, vooral, heel negentiende-eeuws. Het is gevuld met allerhande literaire en niet-literaire verwijzingen en heel veel details over de walvisvaart. Dat is allemaal geen probleem, vind ik. [Ik houd van moeilijke boeken](https://kallisti.paulbrederveld.nl/Ik-houd-van-moeilijke-boeken).
