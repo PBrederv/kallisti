@@ -28,7 +28,7 @@ Het hoeft niet, maar Quartz zegt wel dat je de basis voor de site op [GitHub](ht
 
 Wat als ik dat kon gebruiken om de pagina naar op Github te bouwen en dan naar mijn host te verplaatsen? Dat bleek te kunnen. Door de actie van de makers van Quartz zelf te combineren met een actie die via FTP alles over kan zetten naar een host, kreeg ik het aan de gang. Hier staat [die actie](https://github.com/PBrederv/kallisti/blob/v4/.github/workflows/main.yml), als je dit toevallig leest en hetzelfde wil doen.
 
-Zet daarnaast een Obsidian plug-in die mijn notities automatisch *pusht* naar mijn Github en hoppa: met een druk op de knop update ik deze site. Heel handig. Tot alles breekt en ik niet weet waarom, want ik snap nog niet echt *hoe* het werkt. Ik weet ook niet of ik dat wel [[Alles is content, maar niets heeft inhoud#footnote-label|wil weten]].
+Zet daarnaast een Obsidian plug-in die mijn notities automatisch *pusht* naar mijn Github en hoppa: met een druk op de knop update ik deze site. Heel handig. Tot alles breekt en ik niet weet waarom, want ik snap nog niet echt *hoe* het werkt. Ik weet ook niet of ik dat wel [[Alles is content, maar niets heeft inhoud##user-content-fnref-2|wil weten]].
 
 > [!note]- Obsidian, Github en open source
 > Een van mijn lichte ergernissen is dat noch Obsidian noch Github open source zijn. Obsidian is wel weer gratis en niet van een groot techbedrijf, maar Github is van Microsoft - en dat vind ik niet superfijn. Er zijn echter open-source alternatieven en ik zoek dus wel uit of ik over kan stappen, zonder het makkelijk updaten van Quartz te verliezen. *Wordt vervolgd...*
