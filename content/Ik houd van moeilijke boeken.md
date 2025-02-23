@@ -4,7 +4,6 @@ date: 2025-02-21 22:34
 draft: false
 tags:
 ---
-
 ![[subjectivesensa00gowe_0032.jpg]]
 
 Net als iedereen tegenwoordig lees ik te weinig. Natuurlijk wil ik altijd meer lezen, maar ik heb werk en een dreumes. Tegen de tijd dat ik daar klaar mee ben, heb ik de wilskracht niet meer om iets anders te doen dan op m'n telefoon te zitten, of achter m'n computer en misschien nog een podcast te luisteren op de achter grond. De makkelijke dopamine is té eenvoudig. Maar als ik lees, lees ik het liefst een moeilijker boek. Misschien maak ik het mezelf daar niet makkelijker mee. 
@@ -20,3 +19,5 @@ Een moeilijk boek is een geen treinrit, maar een zwerftocht of een queeste. Je b
 [^1]: Niet dat makkelijkere boeken niet leuk kunnen zijn. Dat kan zeker wel, maar tegenover een boek dat *"leest als een trein"* sta ik sceptisch. 
 
 [^2]: Overigens: er zijn ook makkelijke moeilijke boeken, of moeilijke makkelijke boeken. Het werk van Kurt Vonnegut Leest bijvoorbeeld makkelijk, met compacte zinnen en direct taalgebruik, maar in structuur en achterliggende ideeën is het weer wat niet zo makkelijk. Het is ook allemaal niet zo makkelijk. 
+
+
