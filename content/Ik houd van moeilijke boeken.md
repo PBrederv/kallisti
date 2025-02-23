@@ -3,6 +3,8 @@ title: Ik houd van moeilijke boeken
 date: 2025-02-21 22:34
 draft: false
 tags:
+  - zaadje
+  - boek
 ---
 ![[subjectivesensa00gowe_0032.jpg]]
 
