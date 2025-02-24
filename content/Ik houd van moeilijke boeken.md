@@ -6,7 +6,7 @@ tags:
   - zaadje
   - boek
 ---
-![[subjectivesensa00gowe_0032.jpg]]
+![[subjectivesensa00gowe_0032.jpg|Een pagina tekst met vreemde krabbels]]
 
 Net als iedereen tegenwoordig lees ik te weinig. Natuurlijk wil ik altijd meer lezen, maar ik heb werk en een dreumes. Tegen de tijd dat ik daar klaar mee ben, heb ik de wilskracht niet meer om iets anders te doen dan op m'n telefoon te zitten, of achter m'n computer en misschien nog een podcast te luisteren op de achter grond. De makkelijke dopamine is té eenvoudig. Maar als ik lees, lees ik het liefst een moeilijker boek. Misschien maak ik het mezelf daar niet makkelijker mee. 
 
