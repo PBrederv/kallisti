@@ -1,7 +1,7 @@
 ---
 title: Schrijven over politiek en de samenleving
 date: 2025-03-11 20:46
-draft: true
+draft: false
 tags:
   - zaadje
   - reflectie
