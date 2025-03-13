@@ -17,6 +17,7 @@ section {
   box-sizing: border-box;
   background-color: var(--light);
   font-family: var(--bodyFont);
+  font-size: 1.125rem;
   color: var(--darkgray);
 }
 
@@ -324,9 +325,10 @@ h6,
 thead {
   font-family: var(--headerFont);
   color: var(--dark);
-  font-weight: revert;
+  font-weight: $semiBoldWeight;
   margin-bottom: 0;
-
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
   article > & > a[role="anchor"] {
     color: var(--dark);
     background-color: transparent;
@@ -351,27 +353,23 @@ h6 {
   &[id]:hover > a {
     opacity: 1;
   }
-
-  &:not([id]) > a[role="anchor"] {
-    display: none;
-  }
 }
 
 // typography improvements
 h1 {
-  font-size: 1.75rem;
+  font-size: 2rem;
   margin-top: 2.25rem;
   margin-bottom: 1rem;
 }
 
 h2 {
-  font-size: 1.4rem;
+  font-size: 1.75rem;
   margin-top: 1.9rem;
   margin-bottom: 1rem;
 }
 
 h3 {
-  font-size: 1.12rem;
+  font-size: 1.5rem;
   margin-top: 1.62rem;
   margin-bottom: 1rem;
 }
@@ -547,6 +545,7 @@ video {
 
 div:has(> .overflow) {
   display: flex;
+  overflow-y: auto;
   max-height: 100%;
 }
 
@@ -554,21 +553,26 @@ ul.overflow,
 ol.overflow {
   max-height: 100%;
   overflow-y: auto;
-  width: 100%;
-  margin-bottom: 0;
 
   // clearfix
   content: "";
   clear: both;
 
-  & > li.overflow-end {
-    height: 1rem;
-    margin: 0;
+  & > li:last-of-type {
+    margin-bottom: 30px;
   }
-
-  &.gradient-active {
-    mask-image: linear-gradient(to bottom, black calc(100% - 50px), transparent 100%);
-  }
+  /*&:after {
+    pointer-events: none;
+    content: "";
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    opacity: 1;
+    transition: opacity 0.3s ease;
+    background: linear-gradient(transparent 0px, var(--light));
+  }*/
 }
 
 .transclude {
