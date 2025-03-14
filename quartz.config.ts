@@ -1,4 +1,5 @@
 import { QuartzConfig } from "./quartz/cfg"
+import { Darkmode } from "./quartz/components"
 import * as Plugin from "./quartz/plugins"
 
 /**
@@ -19,9 +20,6 @@ const config: QuartzConfig = {
     baseUrl: "kallisti.paulbrederveld.nl",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
-    generateSocialImages: {
-      colorScheme: "darkMode",
-    },
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -90,6 +88,9 @@ const config: QuartzConfig = {
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.NotFoundPage(),
+      Plugin.CustomOgImages({
+        colorScheme: "darkMode",
+      }),
     ],
   },
 }
