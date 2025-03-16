@@ -90,6 +90,7 @@ const config: QuartzConfig = {
       Plugin.NotFoundPage(),
       Plugin.CustomOgImages({
         colorScheme: "darkMode",
+        excludeRoot: true,
       }),
     ],
   },

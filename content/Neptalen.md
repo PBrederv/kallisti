@@ -5,6 +5,8 @@ draft: false
 tags:
   - zaadje
   - conlang
+  - esperanto
+  - toki-pona
 ---
 ![[Pasted image 20250308101911.png|De Verda Stelo, of de Esperanto-vlag]]
 Ik probeer al een aantal jaar Esperanto te leren op Duolingo. Ik zeg bewust "probeer," want eigenlijk ben ik al klaar met de cursus en herhaal ik steeds dezelfde zinnen voor de punten en mijn dagelijkse dopaminefix. Eigenlijk zou ik de cursus op [Lernu.net](https://lernu.net) moeten afmaken en eens op forums of andere plekken Esperanto verder moeten leren en uitdiepen. Vooral de stukjes grammatica die Duolingo niet duidelijk uitlegt. En vocabulaire. En andere zinnen dan *"Mi esperas ke vi finance sukcesos."* Zo vaak zeg ik dat niet tegen mensen. 
