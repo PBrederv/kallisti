@@ -15,16 +15,16 @@ Laat ik eens beginnen met een korte uitleg van werkwoorden in het Esperanto. Die
 | *la viro estas* | de man is       |
 | *la viro estis* | de man was      |
 | *la viro estos* | de man zal zijn |
-Simpel zat, toch? Daar kan weinig mis mee gaan.
 
+Simpel zat, toch? Daar kan weinig mis mee gaan.
 ## Maar dan dus de deelwoorden...
 In het Nederlands is het relatief simpel: er is een onvoltooid en een voltooid deelwoord. Het onvoltooid (of tegenwoordig) deelwoord gebruiken we om aan te geven dat iets gaande is, dat we met iets bezig zijn, of in een bepaalde toestand verkeert: 'de *lezende* man' of '*Fluitend* liep ik over straat.' Het voltooid deelwoord gebruiken we om aan te geven dat een handeling afgerond is: 'het *gelezen* boek' of 'Ik heb een liedje *gefloten*.' Zo werkt het globaal ook in de andere talen die ik ken.
 
 Maar dus niet in Esperanto. Er zijn daar zes deelwoorden[^3], verdeeld in twee categorieën. Er zijn drie actieve deelwoorden, met als achtervoegsel *-ant-*, *-int-* en *-ont-*, en dan drie passieve deelwoorden, eindigend in *-at-*. *-it-* en *-ot-*.[^4] Da's al een hele sloot meer dan in het Nederlands en ze zijn niet eens voltooid en onvoltooid, maar actief en passief en nu wordt het al verwarrend en snap ik er op een intuïtief niveau dus al weinig meer van.
 
-Voordat ik erover las bij [Lernu](https://lernu.net/gramatiko/participoj?hl=nl) ging ik, lompe Hollander, wel uit van een soort voltooid/onvoltooid scheiding, maar dan met een twist. Het gebruik van de letters *a, i* en *o* deed mij vermoeden dat het iets te maken had met de standaarduitgangen voor werkwoorden en dus iets met tegenwoordige tijd, verleden tijd en toekomstige tijd. Dus, dacht ik, met een *a* is het onvoltooid, een *i* voltooid... en de *o*. Ik ben in het Nederlands niet bekend met een toekomstig deelwoord. Voor alles toekomstigs gebruiken wij het hulpwerkwoord *zullen*. Laat staan dat er dan ook nog deelwoorden met *nt* en gewoon *t* zijn. Mijn gokken op Duolingo waren dan ook regelmatig fout, tenzij ik de zin al in helemaal geïnternaliseerd had.
+Voordat ik erover las bij [Lernu](https://lernu.net/gramatiko/participoj?hl=nl), ging ik, lompe Hollander, wel uit van een soort voltooid/onvoltooid scheiding, maar dan met een twist. Het gebruik van de letters *a, i* en *o* deed mij vermoeden dat het iets te maken had met de standaarduitgangen voor werkwoorden en dus iets met tegenwoordige tijd, verleden tijd en toekomstige tijd. Dus, dacht ik, met een *a* is het onvoltooid, een *i* voltooid... en de *o*. Ik ben in het Nederlands niet bekend met een toekomstig deelwoord. Voor alles toekomstigs gebruiken wij het hulpwerkwoord *zullen*. Laat staan dat er dan ook nog deelwoorden met *nt* en gewoon *t* zijn. Mijn gokken op Duolingo zijn dan ook regelmatig fout, tenzij ik de zin al in helemaal geïnternaliseerd had.
 
-Maar goed, via Lernu ontdekte ik dus dat het actieve en passieve deelwoorden waren. Meer dan ik via Duolingo had ontdekt, maar de site is nog altijd niet superduidelijk. Dus ik zocht verder en via Reddit kwam ik op [een site die alleen op archive.org te achterhalen valt](https://web.archive.org/web/20160408042733/http://pages.ucsd.edu/~dkjordan/eo/colloq/colloq200.html) en me wat meer duidelijkheid bracht. Hoewel ik nog altijd niet zeker ben over hoeveel ik snap.
+Maar goed, via Lernu ontdekte ik dus dat het actieve en passieve deelwoorden zijn. Meer dan ik via Duolingo had ontdekt, maar de site is nog altijd niet superduidelijk. Dus ik zocht verder en via Reddit kwam ik op [een site die alleen op archive.org te achterhalen valt](https://web.archive.org/web/20160408042733/http://pages.ucsd.edu/~dkjordan/eo/colloq/colloq200.html) en me wat meer duidelijkheid bracht. Hoewel ik nog altijd niet zeker ben over hoeveel ik snap.
 
 De deelwoorden zelf geven de voltooiing van de handeling aan: dus is het nog bezig, is het al afgerond of moet het nog beginnen. Het gelinkte stuk noemt dit het *'aspect'*, dus laat ik dat ook maar gebruiken. De tijd van het hulpwerkwoord *esti*[^5] geeft aan *wanneer* het deelwoord gebeurt. Dus als ik het goed begrijp: op het punt in de tijd van het werkwoord *esti* is de handeling van het deelwoord in die mate afgerond. Dát klinkt echter nog steeds niet heel erg helder. Ik moet het voor mezelf even concreet maken en niet zoeken naar een abstracte regel.
 
@@ -48,6 +48,7 @@ Gelukkig zijn de actieve deelwoorden niet zo heel complex als je ze concreet maa
 | *La viro estas legonta* | De man staat op het punt te lezen     |
 | *La viro estis legonta* | De man stond op het punt te lezen     |
 | *La viro estos legonta* | De man zal op het punt staan te lezen |
+
 Kort samengevat:
 1. *-ant-* is vergelijkbaar met onvoltooid deelwoord: het geeft een lopende handeling aan. Het onderwerp van de zin is, was of zal bezig met een handeling zijn.
 2. *-int-* is vergelijkbaar met het voltooid deelwoord - zowel de voltooid tegenwoordige tijd, de voltooid verleden tijd als de voltooid toekomstige tijd.
