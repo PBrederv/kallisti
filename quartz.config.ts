@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     locale: "nl-NL",
     baseUrl: "kallisti.paulbrederveld.nl",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
