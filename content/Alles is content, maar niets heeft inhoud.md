@@ -5,6 +5,7 @@ draft: false
 tags:
   - zaadje
   - gedachte
+  - internet
 ---
 
 ![[computer.webp|Een oude computer]]
