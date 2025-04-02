@@ -66,6 +66,21 @@ ul,
   }
 }
 
+article {
+  > mjx-container.MathJax,
+  blockquote > div > mjx-container.MathJax {
+    display: flex;
+    > svg {
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+  blockquote > div > mjx-container.MathJax > svg {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+}
+
 strong {
   font-weight: $semiBoldWeight;
 }
@@ -547,6 +562,7 @@ div:has(> .overflow) {
   display: flex;
   overflow-y: auto;
   max-height: 100%;
+  overflow-y: hidden;
 }
 
 ul.overflow,
