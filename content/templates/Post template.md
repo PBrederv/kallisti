@@ -1,6 +1,6 @@
 ---
 title: <% tp.file.title %>
-date: <% tp.file.creation_date() %>
+date: <% tp.file.last_modified_date() %>
 draft: 
 tags:
 ---
