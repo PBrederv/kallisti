@@ -4,8 +4,8 @@ date: 2025-05-22 12:48
 draft: false
 tags:
   - zaadje
-  - boek
   - toki-pona
+  - conlang
 ---
 Ik dacht eerst: [[De taal van het goede (deel 1) | ik ga hier uitwerken wat ik precies geleerd heb]]. Eigenlijk gaat het meer over mijn gedachten over wat ik leer en hoe toki pona werkt. Dingen die me opvallen. En misschien zit er nog iets tussen wat ik echt geleerd heb ook. Dus bij deze weer een samenvatting.
 ## Alle dieren maken hetzelfde geluid.
