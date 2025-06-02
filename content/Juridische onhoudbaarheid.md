@@ -1,7 +1,7 @@
 ---
 title: Juridische onhoudbaarheid
 date: 2025-05-30 20:04
-draft: true
+draft: false
 tags:
   - zaadje
   - politiek
