@@ -1,7 +1,7 @@
 ---
 title: Kombuchasnob
 date: 2025-08-25 16:30
-draft: true
+draft: false
 tags:
   - zaadje
   - kombucha
